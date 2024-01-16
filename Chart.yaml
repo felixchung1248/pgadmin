@@ -5,5 +5,5 @@ description: A Helm chart for Kubernetes to deploy pgAdmin
 
 # Define dependencies
 dependencies:
-  - name: pgadmin
-    version: "1.20.0"  # Use the exact version of the pgAdmin chart you want
+  - name: pgadmin4
+    version: "1.x.x"  # Use the exact version of the pgAdmin chart you want
